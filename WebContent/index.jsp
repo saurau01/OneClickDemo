@@ -20,6 +20,7 @@
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/favicon.ico" type="img/favicon.ico" -->
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -38,7 +39,7 @@
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
             <li class="sidebar-brand">
-                <a href="#top" onclick=$("#menu-close").click();>Start Bootstrap</a>
+                <a href="#top" onclick=$("#menu-close").click();>Menu</a>
             </li>
             <li>
                 <a href="#top" onclick=$("#menu-close").click();>Home</a>

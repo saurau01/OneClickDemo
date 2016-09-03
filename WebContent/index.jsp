@@ -70,7 +70,7 @@
                         
                         <ul class="list-inline intro-social-buttons">
                             <li>
-                                <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                                <a href="https://github.com/saurau01/OneClickDemo" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                             </li>
 							<li>
 							    <a href="#about" class="btn btn-default btn-lg">Find Out More</a>

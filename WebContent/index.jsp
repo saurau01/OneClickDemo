@@ -67,7 +67,7 @@
 			<div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <hr class="intro-divider">
+                        
                         <ul class="list-inline intro-social-buttons">
                             <li>
                                 <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>

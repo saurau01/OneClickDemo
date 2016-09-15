@@ -62,6 +62,7 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
+	<div style="background-color:white;opacity:0.6">
             <h1>One Click Deployment</h1>
             <h3>One Click Deployment Demo Page </h3>
             <br>
@@ -82,6 +83,7 @@
                 </div>
             </div>
             </div>
+	    </div>
     </header>
 
     <!-- About -->

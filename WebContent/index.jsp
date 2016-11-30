@@ -54,7 +54,8 @@
                 <a href="#workflow" onclick=$("#menu-close").click();>Workflow</a>
             </li>
             <li>
-                <a href="#contact" onclick=$("#menu-close").click();>Contact</a>
+		<a href="#contact" onclick=$("#menu-close").click();>Contact
+		</a>
             </li>
         </ul>
     </nav>
